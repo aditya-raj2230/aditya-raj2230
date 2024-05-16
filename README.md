@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**aditya-raj2230/aditya-raj2230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm Aditya Raj
 
-Here are some ideas to get you started:
+🔧 Full-Stack Web Developer | Passionate about crafting efficient and scalable web solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Skills:
+- Frontend: HTML, CSS, JavaScript, React, Typescript ,TailwindCss
+- Backend: Node.js, Express, Spring-Boot
+- Databases: PostgreSQL, MongoDB
+- DevOps: Docker, Kubernetes, AWS
+
+💡 Always eager to learn new technologies and improve my coding skills.
+
+📚 Currently exploring DevOps
+
+🌱 Open to collaboration and open-source contributions.
+
+
+Feel free to customize it further to better fit your personality and experience!
