@@ -1,19 +1,17 @@
 
-👋 Hi there! I'm Aditya Raj
+ Hi there! I'm Aditya Raj
 
-🔧 Full-Stack Web Developer | Passionate about crafting efficient and scalable web solutions
+ Full-Stack Web Developer | Passionate about crafting efficient and scalable web solutions
 
-🌐 Skills:
+ Skills:
 - Frontend: HTML, CSS, JavaScript, React, Typescript ,TailwindCss
-- Backend: Node.js, Express, Spring-Boot
+- Backend: Node.js, Express
 - Databases: PostgreSQL, MongoDB
 - DevOps: Docker, Kubernetes, AWS
 
-💡 Always eager to learn new technologies and improve my coding skills.
+ Always eager to learn new technologies and improve my coding skills.
 
-📚 Currently exploring DevOps
+ Currently exploring DevOps
 
-🌱 Open to collaboration and open-source contributions.
+ Open to collaboration and open-source contributions.
 
-
-Feel free to customize it further to better fit your personality and experience!
